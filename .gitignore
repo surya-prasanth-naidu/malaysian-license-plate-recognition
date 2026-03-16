@@ -1,0 +1,12 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.autosave
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments if created accidentally
+.venv/
+venv/
